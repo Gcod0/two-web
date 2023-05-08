@@ -94,3 +94,14 @@ text-align: center;
     margin-left: 0rem;
     background-color: #000000;
 }
+
+.about__me2 {
+position: absolute;
+top: 15%;
+color: white;
+font-size: 15px;
+font-weight: 700;
+right: 20%;
+left: 20%;
+}
+ 
