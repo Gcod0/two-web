@@ -41,6 +41,7 @@ text-align: center;
     text-transform: uppercase;
     letter-spacing: 5px;
     margin-bottom: 40px;
+    border-left: #000000;
 }
 
 .about__work {
@@ -54,6 +55,7 @@ text-align: center;
     text-transform: uppercase;
     letter-spacing: 5px;
     margin-bottom: 40px;
+    border-left:#000000
 }
 
 .about__contact {
@@ -101,7 +103,17 @@ top: 15%;
 color: white;
 font-size: 15px;
 font-weight: 700;
-right: 20%;
+right: 50%;
+left: 20%;
+}
+
+.about__work2 {
+position: absolute;
+top: 55%;
+color: white;
+font-size: 15px;
+font-weight: 700;
+right: 50%;
 left: 20%;
 }
  
